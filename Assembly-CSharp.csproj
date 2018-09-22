@@ -59,9 +59,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\FollowCam.cs" />
     <Compile Include="Assets\Scripts\Cloud.cs" />
     <Compile Include="Assets\Scripts\CloudCrafter.cs" />
+    <Compile Include="Assets\Scripts\FollowCam.cs" />
+    <Compile Include="Assets\Scripts\RigidbodySleep.cs" />
     <Compile Include="Assets\Scripts\Slingshot.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/g00229445/Documents/GitHub/Mission-Demolition-Prototype/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
