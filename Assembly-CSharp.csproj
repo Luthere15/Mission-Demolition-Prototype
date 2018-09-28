@@ -63,6 +63,7 @@
     <Compile Include="Assets\Scripts\Cloud.cs" />
     <Compile Include="Assets\Scripts\CloudCrafter.cs" />
     <Compile Include="Assets\Scripts\FollowCam.cs" />
+    <Compile Include="Assets\Scripts\MissionDemolition.cs" />
     <Compile Include="Assets\Scripts\ProjectileLine.cs" />
     <Compile Include="Assets\Scripts\RigidbodySleep.cs" />
     <Compile Include="Assets\Scripts\Slingshot.cs" />
