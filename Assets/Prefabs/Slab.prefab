@@ -25,7 +25,7 @@ GameObject:
   - component: {fileID: 54397588965768588}
   - component: {fileID: 114900840082120858}
   m_Layer: 0
-  m_Name: slab
+  m_Name: Slab
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
